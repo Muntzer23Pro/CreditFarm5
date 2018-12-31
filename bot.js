@@ -10,4 +10,4 @@ channel.send(`فلوس فلوس كثير | Wings Community`);
 }, 30)
 })
 
-client.login("NTI1NzY4MDQ2MjI1MTI5NDky.Dv7dGg.P2f4DDE_wK9Qg2aZMRwOPIkQsuc");
+client.login("NTI5MjQ5MDYxNzExMzgwNTIw.DwuG2w.LnBW0FH2RQ2HC990oQdEmJae3j8");
